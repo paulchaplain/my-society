@@ -1,0 +1,15 @@
+.baner {
+	background-image: url('../../image/backgroundimage.jpg');
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.baner .container {
+	display: flex;
+	height: 100%;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+}
+
+
